@@ -1,0 +1,1 @@
+var canvas= new fabric.Canvas('my_canvas');
